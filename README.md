@@ -2,7 +2,7 @@
 
 <a>Tecnólogo em Análise e Desenvolvimento de Sistemas, e técnico Web Develpment, trabalho atualmente com SAP, na posição de Global SAP Support.</a>
 
-<a>Focado em ampliar meus conhecimentos em programação com Python.</a>
+<a>Focado em ampliar meus conhecimentos em programação, no momento, estou estudando Java.</a>
 
 <a>Acesse meu perfil do LinkedIn com o botão abaixo.</a>
 
@@ -16,12 +16,12 @@
 <!--   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=athla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 </div>
 <div style="display: inline_block" ><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">          
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />       
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"> 
   
 </div>
