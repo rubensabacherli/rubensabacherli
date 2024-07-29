@@ -2,7 +2,7 @@
 
 <a>Tecnólogo em Análise e Desenvolvimento de Sistemas, e técnico Web Develpment, trabalho atualmente com SAP, na posição de Global SAP Support.</a>
 
-<a>Focado em ampliar meus conhecimentos em programação, no momento, estou estudando Java.</a>
+<a>Focado em ampliar meus conhecimentos em programação, no momento, estou estudando Backend com foco em Python.</a>
 
 <a>Acesse meu perfil do LinkedIn com o botão abaixo.</a>
 
